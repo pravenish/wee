@@ -1,0 +1,31 @@
+
+@media only screen and (max-width: 600px) {
+    body{
+        padding: 5px 50px 5px 50px;
+    }
+}
+@media only screen and (min-width: 600px) {
+    body{
+        padding: 5px 50px 5px 50px;
+    }
+}
+h1{
+    text-align: center;
+    color: rgb(126, 21, 21);
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+ul{
+    font-size: 35px;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(240, 240, 104);
+}
+li:hover{
+    background-color: rgb(240, 240, 104);
+}
